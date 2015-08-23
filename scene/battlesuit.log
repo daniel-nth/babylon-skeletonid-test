@@ -1,0 +1,228 @@
+	Exporter version: 3.0.1, Blender version: 2.75 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  BattleSuitArmature, id:  0
+	processing begun of bone:  Root, index:  0
+	animation begun of bone:  Root
+	processing begun of bone:  Foot_L_Control, index:  1
+	animation begun of bone:  Foot_L_Control
+	processing begun of bone:  Foot_R_Control, index:  2
+	animation begun of bone:  Foot_R_Control
+	processing begun of bone:  Core, index:  3
+	animation begun of bone:  Core
+	processing begun of bone:  Shoulder_L, index:  4
+	animation begun of bone:  Shoulder_L
+	processing begun of bone:  Arm_L, index:  5
+	animation begun of bone:  Arm_L
+	processing begun of bone:  Shoulder_R, index:  6
+	animation begun of bone:  Shoulder_R
+	processing begun of bone:  Arm_R, index:  7
+	animation begun of bone:  Arm_R
+	processing begun of bone:  Connector, index:  8
+	animation begun of bone:  Connector
+	processing begun of bone:  Engine, index:  9
+	animation begun of bone:  Engine
+	processing begun of bone:  Hip_R, index:  10
+	animation begun of bone:  Hip_R
+	processing begun of bone:  UpperLeg_R, index:  11
+	animation begun of bone:  UpperLeg_R
+	processing begun of bone:  LowerLeg_R, index:  12
+	animation begun of bone:  LowerLeg_R
+	processing begun of bone:  Foot_R, index:  13
+	animation begun of bone:  Foot_R
+	processing begun of bone:  Hip_L, index:  14
+	animation begun of bone:  Hip_L
+	processing begun of bone:  UpperLeg_L, index:  15
+	animation begun of bone:  UpperLeg_L
+	processing begun of bone:  LowerLeg_L, index:  16
+	animation begun of bone:  LowerLeg_L
+	processing begun of bone:  Foot_L, index:  17
+	animation begun of bone:  Foot_L
+	processing complete of skeleton:  BattleSuitArmature
+	processing begun of mesh:  Core
+		processing begun of Standard material:  Material.004
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: UVMap
+		num positions      :  11334
+		num normals        :  11334
+		num uvs            :  22668
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11334
+		num skeletonWeights:  45336
+		num skeletonIndices:  45336
+	processing begun of mesh:  Launcher_right
+		processing begun of Standard material:  Material.003
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: UVMap
+		num positions      :  416
+		num normals        :  416
+		num uvs            :  832
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  804
+	processing begun of mesh:  MG_left
+		processing begun of Standard material:  Material.002
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: UVMap
+		num positions      :  793
+		num normals        :  793
+		num uvs            :  1586
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1704
+	processing begun of mesh:  Engine
+		processing begun of Standard material:  Material.001
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: UVMap
+		num positions      :  4765
+		num normals        :  4765
+		num uvs            :  9530
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  10644
+	processing begun of skeleton:  PilotArmature, id:  1
+	processing begun of bone:  hips, index:  0
+	animation begun of bone:  hips
+	processing begun of bone:  spine, index:  1
+	animation begun of bone:  spine
+	processing begun of bone:  chest, index:  2
+	animation begun of bone:  chest
+	processing begun of bone:  neck, index:  3
+	animation begun of bone:  neck
+	processing begun of bone:  head, index:  4
+	animation begun of bone:  head
+	processing begun of bone:  shoulder.L, index:  5
+	animation begun of bone:  shoulder.L
+	processing begun of bone:  upper_arm.L, index:  6
+	animation begun of bone:  upper_arm.L
+	processing begun of bone:  forearm.L, index:  7
+	animation begun of bone:  forearm.L
+	processing begun of bone:  hand.L, index:  8
+	animation begun of bone:  hand.L
+	processing begun of bone:  palm.01.L, index:  9
+	animation begun of bone:  palm.01.L
+	processing begun of bone:  f_index.01.L, index:  10
+	animation begun of bone:  f_index.01.L
+	processing begun of bone:  f_index.02.L, index:  11
+	animation begun of bone:  f_index.02.L
+	processing begun of bone:  f_index.03.L, index:  12
+	animation begun of bone:  f_index.03.L
+	processing begun of bone:  thumb.01.L, index:  13
+	animation begun of bone:  thumb.01.L
+	processing begun of bone:  thumb.02.L, index:  14
+	animation begun of bone:  thumb.02.L
+	processing begun of bone:  thumb.03.L, index:  15
+	animation begun of bone:  thumb.03.L
+	processing begun of bone:  palm.02.L, index:  16
+	animation begun of bone:  palm.02.L
+	processing begun of bone:  f_middle.01.L, index:  17
+	animation begun of bone:  f_middle.01.L
+	processing begun of bone:  f_middle.02.L, index:  18
+	animation begun of bone:  f_middle.02.L
+	processing begun of bone:  f_middle.03.L, index:  19
+	animation begun of bone:  f_middle.03.L
+	processing begun of bone:  palm.03.L, index:  20
+	animation begun of bone:  palm.03.L
+	processing begun of bone:  f_ring.01.L, index:  21
+	animation begun of bone:  f_ring.01.L
+	processing begun of bone:  f_ring.02.L, index:  22
+	animation begun of bone:  f_ring.02.L
+	processing begun of bone:  f_ring.03.L, index:  23
+	animation begun of bone:  f_ring.03.L
+	processing begun of bone:  palm.04.L, index:  24
+	animation begun of bone:  palm.04.L
+	processing begun of bone:  f_pinky.01.L, index:  25
+	animation begun of bone:  f_pinky.01.L
+	processing begun of bone:  f_pinky.02.L, index:  26
+	animation begun of bone:  f_pinky.02.L
+	processing begun of bone:  f_pinky.03.L, index:  27
+	animation begun of bone:  f_pinky.03.L
+	processing begun of bone:  shoulder.R, index:  28
+	animation begun of bone:  shoulder.R
+	processing begun of bone:  upper_arm.R, index:  29
+	animation begun of bone:  upper_arm.R
+	processing begun of bone:  forearm.R, index:  30
+	animation begun of bone:  forearm.R
+	processing begun of bone:  hand.R, index:  31
+	animation begun of bone:  hand.R
+	processing begun of bone:  palm.01.R, index:  32
+	animation begun of bone:  palm.01.R
+	processing begun of bone:  f_index.01.R, index:  33
+	animation begun of bone:  f_index.01.R
+	processing begun of bone:  f_index.02.R, index:  34
+	animation begun of bone:  f_index.02.R
+	processing begun of bone:  f_index.03.R, index:  35
+	animation begun of bone:  f_index.03.R
+	processing begun of bone:  thumb.01.R, index:  36
+	animation begun of bone:  thumb.01.R
+	processing begun of bone:  thumb.02.R, index:  37
+	animation begun of bone:  thumb.02.R
+	processing begun of bone:  thumb.03.R, index:  38
+	animation begun of bone:  thumb.03.R
+	processing begun of bone:  palm.02.R, index:  39
+	animation begun of bone:  palm.02.R
+	processing begun of bone:  f_middle.01.R, index:  40
+	animation begun of bone:  f_middle.01.R
+	processing begun of bone:  f_middle.02.R, index:  41
+	animation begun of bone:  f_middle.02.R
+	processing begun of bone:  f_middle.03.R, index:  42
+	animation begun of bone:  f_middle.03.R
+	processing begun of bone:  palm.03.R, index:  43
+	animation begun of bone:  palm.03.R
+	processing begun of bone:  f_ring.01.R, index:  44
+	animation begun of bone:  f_ring.01.R
+	processing begun of bone:  f_ring.02.R, index:  45
+	animation begun of bone:  f_ring.02.R
+	processing begun of bone:  f_ring.03.R, index:  46
+	animation begun of bone:  f_ring.03.R
+	processing begun of bone:  palm.04.R, index:  47
+	animation begun of bone:  palm.04.R
+	processing begun of bone:  f_pinky.01.R, index:  48
+	animation begun of bone:  f_pinky.01.R
+	processing begun of bone:  f_pinky.02.R, index:  49
+	animation begun of bone:  f_pinky.02.R
+	processing begun of bone:  f_pinky.03.R, index:  50
+	animation begun of bone:  f_pinky.03.R
+	processing begun of bone:  thigh.L, index:  51
+	animation begun of bone:  thigh.L
+	processing begun of bone:  shin.L, index:  52
+	animation begun of bone:  shin.L
+	processing begun of bone:  foot.L, index:  53
+	animation begun of bone:  foot.L
+	processing begun of bone:  toe.L, index:  54
+	animation begun of bone:  toe.L
+	processing begun of bone:  heel.L, index:  55
+	animation begun of bone:  heel.L
+	processing begun of bone:  heel.02.L, index:  56
+	animation begun of bone:  heel.02.L
+	processing begun of bone:  thigh.R, index:  57
+	animation begun of bone:  thigh.R
+	processing begun of bone:  shin.R, index:  58
+	animation begun of bone:  shin.R
+	processing begun of bone:  foot.R, index:  59
+	animation begun of bone:  foot.R
+	processing begun of bone:  toe.R, index:  60
+	animation begun of bone:  toe.R
+	processing begun of bone:  heel.R, index:  61
+	animation begun of bone:  heel.R
+	processing begun of bone:  heel.02.R, index:  62
+	animation begun of bone:  heel.02.R
+	processing complete of skeleton:  PilotArmature
+	processing begun of mesh:  Pilot
+		processing begun of Standard material:  Material
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: UVMap
+		num positions      :  6147
+		num normals        :  6147
+		num uvs            :  12294
+		num uvs2           :  0
+		num colors         :  24588
+		num indices        :  6147
+		num skeletonWeights:  24588
+		num skeletonIndices:  24588
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 28.574 secs
